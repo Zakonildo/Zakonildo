@@ -1,6 +1,6 @@
 ## Hello there!
 
-<img src="https://media3.giphy.com/media/BWvUXvqEZgIWxIfQvN/giphy.gif" min-width="350px" max-width="350px" width="350px" align="right"/>
+<img src="https://media3.giphy.com/media/BWvUXvqEZgIWxIfQvN/giphy.gif" min-width="300px" max-width="300px" width="300px" align="right"/>
 <p>
 I'm <b>Rafael Zacarias Palierini</b>, but you can call me <b>Zakonildo</b> if you find it easier 😁.
 
