@@ -12,7 +12,7 @@ Please make yourself home and I hope you find some of my <b>[projects](https://g
 - 🎓 I'm graduate at <b>Computer Science</b> by <b>Centro Universitário FEI</b>;
 - 📖 I'm currently a <b>Master's Student</b> at <b>Centro Universitário FEI</b> studying <b>Images and Signals Processing at Electrical Engineering</b>;
 - 🌎 I speak <b>English</b> and <b>Portuguese</b>;
-- 🎮 I love <b>Game Development</b>.
+- 🎮 I love <b>Game Development</b>;
 - 🦖 Life finds a way!
 
 ### Technologies
